@@ -983,18 +983,6 @@ nav #icon{
     font-family: 'Oswald', sans-serif;
   }
 
-  @media (max-width: 566px){
-
-  .foot1{
-	display:flex;
-    flex-direction: column;
-    justify-content:space-around;
-    flex-wrap: wrap;
-	margin-left: auto;
-	margin-right:auto;
-    align-items: center;
-	
-}
 .contacts
 {
     margin-top: 30px;
